@@ -1,0 +1,3 @@
+# Discuss
+
+Django discussion package.
